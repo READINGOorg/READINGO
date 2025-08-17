@@ -17,13 +17,14 @@ The goal is to provide a seamless experience for book lovers—whether they want
 ## 📸 Screenshots / Demo
 
 ### 🔐 Authentication  
-Login & Register Pages  
+![Screenshot](assets/Login_page.png)
+![Screenshot](assets/register_page.png)
 
 ### 📚 Book Listings  
-Browse books with search & filters  
+![Screenshot](assets/books_listing.png)
 
 ### 📖 Book Details  
-View book information, price, and rent/buy options  
+![Screenshot](assets/single_book.png)
 
 ---
 
