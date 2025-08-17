@@ -17,14 +17,14 @@ The goal is to provide a seamless experience for book lovers—whether they want
 ## 📸 Screenshots / Demo
 
 ### 🔐 Authentication  
-![Screenshot](assets/Login_page.png)
-![Screenshot](assets/register_page.png)
+![Screenshot](https://github.com/READINGOorg/READINGO/tree/dev/assests/Login_page.png)
+![Screenshot](https://github.com/READINGOorg/READINGO/tree/dev/assests/register_page.png)
 
 ### 📚 Book Listings  
-![Screenshot](assets/books_listing.png)
+![Screenshot](https://github.com/READINGOorg/READINGO/tree/dev/assests/books_listing.png)
 
 ### 📖 Book Details  
-![Screenshot](assets/single_book.png)
+![Screenshot](https://github.com/READINGOorg/READINGO/tree/dev/assests/single_book.png)
 
 ---
 
