@@ -88,7 +88,7 @@ View book information, price, and rent/buy options
 
 
 ## 📂 Project Structure
-
+```
 bookstore-app/
 ├── backend/                  # Server-side code
 │   ├── controllers/          # Business logic for routes
@@ -123,7 +123,7 @@ bookstore-app/
 ├── README.md                 # Project documentation
 └── package.json              # Root-level (optional if using workspaces)
 
-
+```
 
 ---
 
@@ -134,3 +134,77 @@ bookstore-app/
 - **seed/** → Contains scripts to insert sample data into MongoDB  
 - **.env.example** → Template for required environment variables  
 - **README.md** → Documentation for the project 
+
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/bookstore-app.git
+cd bookstore-app
+```
+
+### 2️⃣ Backend Setup
+```
+cd backend
+npm install
+```
+Copy `.env.example` → `.env` and update values (MongoDB URI, JWT Secret, etc.)
+
+Start backend server:
+
+`npm run dev`
+
+### 4️⃣ Access the Application
+
+- Backend runs on: http://localhost:5000
+
+- Frontend runs on: http://localhost:3000
+
+✅ You should now have both frontend & backend running locally!
+
+## 🔮 Future Scope
+
+Here are some features planned for the next phases of development:
+
+- **Payment Integration**  
+  Implement secure payment gateways (like Razorpay, Stripe, or PayPal) for buying and renting books.  
+  This will allow users to directly purchase/rent books within the platform.
+
+- **AI-Powered Book Recommendations**  
+  Add a recommendation system using collaborative filtering or content-based filtering.  
+  Example: "Users who rented this book also liked..."  
+
+- **Mobile App Version**  
+  Extend the project to a React Native or Flutter-based mobile app,  
+  ensuring accessibility on both Android and iOS platforms.
+
+- **Admin Dashboard**  
+  Build a dedicated dashboard for admins to:  
+  - Manage books (Add, Edit, Remove)  
+  - Track rentals and purchases  
+  - Monitor user activity  
+  - Generate reports  
+
+- **Enhanced Search & Filters**  
+  Improve search functionality with filters (genre, language, author)  
+  to provide users a smoother browsing experience.
+
+
+## 👨‍💻 Author
+
+**Shudhanshu Bajpai**  
+B.Tech in Computer Science | Aspiring **Full-Stack Developer** | Tech Enthusiast  
+  
+- 💡 **Interests:** MERN Stack Development, AI/ML, Computer Vision, Problem Solving  
+ 
+
+
+
+### 🌐 Connect With Me
+- 🔗 [LinkedIn](www.linkedin.com/in/shudhanshu-bajpai-b410242a3)  
+- 💻 [GitHub](https://github.com/ShudhanshuBajpai)  
+- 📧 **Email:** *2k22.csiot.2212506@gmail.com*  
+  
